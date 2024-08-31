@@ -1,6 +1,7 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import '../pages/pageview.dart';
+import '../pages/bottomnavigationbar.dart';
+
 import 'forgotpassword/con_button.dart';
 import 'j_signuppage.dart';
 
