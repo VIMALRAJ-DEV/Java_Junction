@@ -1,8 +1,8 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import '../pages/bottomnavigationbar.dart';
+import '../pages/bottomnavigation_pages/bottomnavigationbar.dart';
 
-import 'forgotpassword/con_button.dart';
+import 'forgotpassword/otp_conformation_button.dart';
 import 'j_signuppage.dart';
 
 class j_loginpage extends StatefulWidget {

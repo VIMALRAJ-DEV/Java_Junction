@@ -48,13 +48,12 @@ Widget phonenumberfield(String s1,IconData i1,) {
     cursorColor: Colors.brown,
     keyboardType: TextInputType.number,
     decoration: InputDecoration(
-      //focusedBorder: InputBorder.none,
       labelText: s1,
       labelStyle: TextStyle(color: Colors.brown, fontSize: 20),
       prefixIcon: Icon(
         color: Colors.brown,
         i1,
-        size: 30,
+        size: 3
       ),
     ),
     style: TextStyle(color: Colors.brown),
